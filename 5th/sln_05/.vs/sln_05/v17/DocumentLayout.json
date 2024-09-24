@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Study_A\\5th\\sln_05\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B29C64F-4217-495C-9CF8-2BCF7EAE5F29}|A_Timer\\A_Timer.csproj|d:\\study_a\\5th\\sln_05\\a_timer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2B29C64F-4217-495C-9CF8-2BCF7EAE5F29}|A_Timer\\A_Timer.csproj|solutionrelative:a_timer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1C5BC634-3AD7-4FD2-AEFE-137B93D8C99F}|A_Progress\\A_Progress.csproj|d:\\study_a\\5th\\sln_05\\a_progress\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C5BC634-3AD7-4FD2-AEFE-137B93D8C99F}|A_Progress\\A_Progress.csproj|solutionrelative:a_progress\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B29C64F-4217-495C-9CF8-2BCF7EAE5F29}|A_Timer\\A_Timer.csproj|d:\\study_a\\5th\\sln_05\\a_timer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B29C64F-4217-495C-9CF8-2BCF7EAE5F29}|A_Timer\\A_Timer.csproj|solutionrelative:a_timer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C5BC634-3AD7-4FD2-AEFE-137B93D8C99F}|A_Progress\\A_Progress.csproj|d:\\study_a\\5th\\sln_05\\a_progress\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5BC634-3AD7-4FD2-AEFE-137B93D8C99F}|A_Progress\\A_Progress.csproj|solutionrelative:a_progress\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,25 +24,25 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Study_A\\5th\\sln_05\\A_Timer\\Form1.cs",
-              "RelativeDocumentMoniker": "A_Timer\\Form1.cs",
-              "ToolTip": "D:\\Study_A\\5th\\sln_05\\A_Timer\\Form1.cs",
-              "RelativeToolTip": "A_Timer\\Form1.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "DocumentMoniker": "D:\\Study_A\\5th\\sln_05\\A_Progress\\Form1.cs",
+              "RelativeDocumentMoniker": "A_Progress\\Form1.cs",
+              "ToolTip": "D:\\Study_A\\5th\\sln_05\\A_Progress\\Form1.cs",
+              "RelativeToolTip": "A_Progress\\Form1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwCQAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T04:14:40.035Z",
+              "WhenOpened": "2024-09-24T06:37:39.353Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "D:\\Study_A\\5th\\sln_05\\A_Timer\\Form1.cs",
-              "RelativeDocumentMoniker": "A_Timer\\Form1.cs",
-              "ToolTip": "D:\\Study_A\\5th\\sln_05\\A_Timer\\Form1.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "A_Timer\\Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\Study_A\\5th\\sln_05\\A_Progress\\Form1.cs",
+              "RelativeDocumentMoniker": "A_Progress\\Form1.cs",
+              "ToolTip": "D:\\Study_A\\5th\\sln_05\\A_Progress\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "A_Progress\\Form1.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T04:09:22.824Z",
+              "WhenOpened": "2024-09-24T06:34:37.753Z",
               "EditorCaption": " [\uB514\uC790\uC778]"
             }
           ]

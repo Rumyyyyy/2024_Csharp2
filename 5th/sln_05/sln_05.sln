@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_Timer", "A_Timer\A_Timer.csproj", "{2B29C64F-4217-495C-9CF8-2BCF7EAE5F29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_Progress", "A_Progress\A_Progress.csproj", "{1C5BC634-3AD7-4FD2-AEFE-137B93D8C99F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2B29C64F-4217-495C-9CF8-2BCF7EAE5F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B29C64F-4217-495C-9CF8-2BCF7EAE5F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B29C64F-4217-495C-9CF8-2BCF7EAE5F29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C5BC634-3AD7-4FD2-AEFE-137B93D8C99F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C5BC634-3AD7-4FD2-AEFE-137B93D8C99F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C5BC634-3AD7-4FD2-AEFE-137B93D8C99F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C5BC634-3AD7-4FD2-AEFE-137B93D8C99F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
