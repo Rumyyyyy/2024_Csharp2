@@ -39,13 +39,13 @@
             // 
             this.pbStatus.Location = new System.Drawing.Point(34, 68);
             this.pbStatus.Name = "pbStatus";
-            this.pbStatus.Size = new System.Drawing.Size(100, 23);
+            this.pbStatus.Size = new System.Drawing.Size(348, 23);
             this.pbStatus.TabIndex = 0;
             // 
             // lblStatus
             // 
             this.lblStatus.AutoSize = true;
-            this.lblStatus.Location = new System.Drawing.Point(32, 35);
+            this.lblStatus.Location = new System.Drawing.Point(32, 110);
             this.lblStatus.Name = "lblStatus";
             this.lblStatus.Size = new System.Drawing.Size(29, 12);
             this.lblStatus.TabIndex = 1;
@@ -53,7 +53,7 @@
             // 
             // btnRun
             // 
-            this.btnRun.Location = new System.Drawing.Point(34, 118);
+            this.btnRun.Location = new System.Drawing.Point(400, 68);
             this.btnRun.Name = "btnRun";
             this.btnRun.Size = new System.Drawing.Size(75, 23);
             this.btnRun.TabIndex = 2;
@@ -70,7 +70,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(194, 213);
+            this.ClientSize = new System.Drawing.Size(518, 175);
             this.Controls.Add(this.btnRun);
             this.Controls.Add(this.lblStatus);
             this.Controls.Add(this.pbStatus);

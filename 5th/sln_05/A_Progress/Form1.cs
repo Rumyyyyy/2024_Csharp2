@@ -22,7 +22,17 @@ namespace A_Progress
 
         private void btnRun_Click(object sender, EventArgs e)
         {
-            this.Timer.Enabled = true;
+            if (Num > 0)
+            {
+                Num = 0;
+                this.Timer.Enabled=false;
+                this.pbStatus.Value = Num;
+                this.lblStatus.Text = OrgStr + Num.ToString() + "%";
+            }
+            else
+            {
+                this.Timer.Enabled = true;
+            }
         }
 
         private void Timer_Tick(object sender, EventArgs e)
@@ -30,11 +40,11 @@ namespace A_Progress
             Num++;
             if(Num > 100)
             {
-                this.Timer.Enabled=false;
+                this.Timer.Enabled = false;
                 return;
             }
             this.pbStatus.Value = Num;
-            this.lblStatus.Text  = OrgStr + Num.ToString() + " %";
+            this.lblStatus.Text  = OrgStr + Num.ToString() + "%";
         }
 
         private void Form1_Load(object sender, EventArgs e)
