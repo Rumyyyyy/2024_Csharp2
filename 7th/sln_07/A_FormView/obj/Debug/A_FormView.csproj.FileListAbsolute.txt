@@ -1,0 +1,12 @@
+C:\Users\YUHAN\source\repos\sln_07\A_FormView\bin\Debug\A_FormView.exe.config
+C:\Users\YUHAN\source\repos\sln_07\A_FormView\bin\Debug\A_FormView.exe
+C:\Users\YUHAN\source\repos\sln_07\A_FormView\bin\Debug\A_FormView.pdb
+C:\Users\YUHAN\source\repos\sln_07\A_FormView\obj\Debug\A_FormView.csproj.AssemblyReference.cache
+C:\Users\YUHAN\source\repos\sln_07\A_FormView\obj\Debug\A_FormView.Form1.resources
+C:\Users\YUHAN\source\repos\sln_07\A_FormView\obj\Debug\A_FormView.Form2.resources
+C:\Users\YUHAN\source\repos\sln_07\A_FormView\obj\Debug\A_FormView.Form3.resources
+C:\Users\YUHAN\source\repos\sln_07\A_FormView\obj\Debug\A_FormView.Properties.Resources.resources
+C:\Users\YUHAN\source\repos\sln_07\A_FormView\obj\Debug\A_FormView.csproj.GenerateResource.cache
+C:\Users\YUHAN\source\repos\sln_07\A_FormView\obj\Debug\A_FormView.csproj.CoreCompileInputs.cache
+C:\Users\YUHAN\source\repos\sln_07\A_FormView\obj\Debug\A_FormView.exe
+C:\Users\YUHAN\source\repos\sln_07\A_FormView\obj\Debug\A_FormView.pdb

@@ -1,0 +1,11 @@
+C:\Users\YUHAN\source\repos\sln_07\A_TrayMsg\obj\Debug\A_TrayMsg.csproj.AssemblyReference.cache
+C:\Users\YUHAN\source\repos\sln_07\A_TrayMsg\obj\Debug\A_TrayMsg.Form1.resources
+C:\Users\YUHAN\source\repos\sln_07\A_TrayMsg\obj\Debug\A_TrayMsg.Form2.resources
+C:\Users\YUHAN\source\repos\sln_07\A_TrayMsg\obj\Debug\A_TrayMsg.Properties.Resources.resources
+C:\Users\YUHAN\source\repos\sln_07\A_TrayMsg\obj\Debug\A_TrayMsg.csproj.GenerateResource.cache
+C:\Users\YUHAN\source\repos\sln_07\A_TrayMsg\obj\Debug\A_TrayMsg.csproj.CoreCompileInputs.cache
+C:\Users\YUHAN\source\repos\sln_07\A_TrayMsg\bin\Debug\A_TrayMsg.exe.config
+C:\Users\YUHAN\source\repos\sln_07\A_TrayMsg\bin\Debug\A_TrayMsg.exe
+C:\Users\YUHAN\source\repos\sln_07\A_TrayMsg\bin\Debug\A_TrayMsg.pdb
+C:\Users\YUHAN\source\repos\sln_07\A_TrayMsg\obj\Debug\A_TrayMsg.exe
+C:\Users\YUHAN\source\repos\sln_07\A_TrayMsg\obj\Debug\A_TrayMsg.pdb
