@@ -1,0 +1,11 @@
+C:\Users\YUHAN\source\repos\sln_11\A_Notepad\obj\Debug\A_Notepad.csproj.AssemblyReference.cache
+C:\Users\YUHAN\source\repos\sln_11\A_Notepad\obj\Debug\A_Notepad.Form1.resources
+C:\Users\YUHAN\source\repos\sln_11\A_Notepad\obj\Debug\A_Notepad.Form2.resources
+C:\Users\YUHAN\source\repos\sln_11\A_Notepad\obj\Debug\A_Notepad.Properties.Resources.resources
+C:\Users\YUHAN\source\repos\sln_11\A_Notepad\obj\Debug\A_Notepad.csproj.GenerateResource.cache
+C:\Users\YUHAN\source\repos\sln_11\A_Notepad\obj\Debug\A_Notepad.csproj.CoreCompileInputs.cache
+C:\Users\YUHAN\source\repos\sln_11\A_Notepad\bin\Debug\A_Notepad.exe.config
+C:\Users\YUHAN\source\repos\sln_11\A_Notepad\bin\Debug\A_Notepad.exe
+C:\Users\YUHAN\source\repos\sln_11\A_Notepad\bin\Debug\A_Notepad.pdb
+C:\Users\YUHAN\source\repos\sln_11\A_Notepad\obj\Debug\A_Notepad.exe
+C:\Users\YUHAN\source\repos\sln_11\A_Notepad\obj\Debug\A_Notepad.pdb
