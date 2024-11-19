@@ -1,0 +1,10 @@
+C:\Users\YUHAN\Documents\GitHub\2024_Csharp2\sln_13\A_NetStat\bin\Debug\A_NetStat.exe.config
+C:\Users\YUHAN\Documents\GitHub\2024_Csharp2\sln_13\A_NetStat\bin\Debug\A_NetStat.exe
+C:\Users\YUHAN\Documents\GitHub\2024_Csharp2\sln_13\A_NetStat\bin\Debug\A_NetStat.pdb
+C:\Users\YUHAN\Documents\GitHub\2024_Csharp2\sln_13\A_NetStat\obj\Debug\A_NetStat.csproj.AssemblyReference.cache
+C:\Users\YUHAN\Documents\GitHub\2024_Csharp2\sln_13\A_NetStat\obj\Debug\A_NetStat.Form1.resources
+C:\Users\YUHAN\Documents\GitHub\2024_Csharp2\sln_13\A_NetStat\obj\Debug\A_NetStat.Properties.Resources.resources
+C:\Users\YUHAN\Documents\GitHub\2024_Csharp2\sln_13\A_NetStat\obj\Debug\A_NetStat.csproj.GenerateResource.cache
+C:\Users\YUHAN\Documents\GitHub\2024_Csharp2\sln_13\A_NetStat\obj\Debug\A_NetStat.csproj.CoreCompileInputs.cache
+C:\Users\YUHAN\Documents\GitHub\2024_Csharp2\sln_13\A_NetStat\obj\Debug\A_NetStat.exe
+C:\Users\YUHAN\Documents\GitHub\2024_Csharp2\sln_13\A_NetStat\obj\Debug\A_NetStat.pdb

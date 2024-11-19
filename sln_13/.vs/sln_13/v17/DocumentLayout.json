@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\YUHAN\\Documents\\GitHub\\2024_Csharp2\\sln_13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{258742F9-D055-49A7-BDE7-E4D22A02EFAF}|A_NetStat\\A_NetStat.csproj|c:\\users\\yuhan\\documents\\github\\2024_csharp2\\sln_13\\a_netstat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{258742F9-D055-49A7-BDE7-E4D22A02EFAF}|A_NetStat\\A_NetStat.csproj|solutionrelative:a_netstat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{258742F9-D055-49A7-BDE7-E4D22A02EFAF}|A_NetStat\\A_NetStat.csproj|c:\\users\\yuhan\\documents\\github\\2024_csharp2\\sln_13\\a_netstat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{258742F9-D055-49A7-BDE7-E4D22A02EFAF}|A_NetStat\\A_NetStat.csproj|solutionrelative:a_netstat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\YUHAN\\Documents\\GitHub\\2024_Csharp2\\sln_13\\A_NetStat\\Form1.cs",
+              "RelativeDocumentMoniker": "A_NetStat\\Form1.cs",
+              "ToolTip": "C:\\Users\\YUHAN\\Documents\\GitHub\\2024_Csharp2\\sln_13\\A_NetStat\\Form1.cs",
+              "RelativeToolTip": "A_NetStat\\Form1.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAcwEQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T00:12:18.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\YUHAN\\Documents\\GitHub\\2024_Csharp2\\sln_13\\A_NetStat\\Form1.cs",
+              "RelativeDocumentMoniker": "A_NetStat\\Form1.cs",
+              "ToolTip": "C:\\Users\\YUHAN\\Documents\\GitHub\\2024_Csharp2\\sln_13\\A_NetStat\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "A_NetStat\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T00:11:42.949Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
